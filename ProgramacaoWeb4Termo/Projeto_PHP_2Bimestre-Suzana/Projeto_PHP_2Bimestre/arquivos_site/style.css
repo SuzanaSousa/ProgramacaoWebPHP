@@ -1,0 +1,10 @@
+.rodape{
+    display: block;
+    position: relative;
+    width: 100%;
+    clear: both;
+}
+.cor_head{
+
+   background-color: #db1313;
+}

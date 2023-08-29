@@ -1,0 +1,279 @@
+body {
+    font-family: 'Roboto';
+    font-size: 0.95rem;
+
+}
+
+section {
+
+    font-family: 'Roboto', 'Calibri';
+    font-size: 0.9rem;
+}
+
+main {
+
+    width: 99, 999%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {}
+
+hr {
+    color: #bea200;
+
+}
+
+.centralizar {
+
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.demo {
+    margin-bottom: 12px;
+
+}
+
+.ajuste-center {
+    width: 99.999%;
+
+    margin-left: auto;
+    margin-right: auto
+}
+
+
+.img_banner {
+
+    max-width: 100%;
+    width: 1920px;
+    height: 600px;
+    margin-bottom: 9px;
+    margin-top: -90px;
+    object-fit: cover;
+
+}
+
+
+
+.reset_decor {
+
+    text-decoration: none;
+    color: white;
+}
+
+.font_menor {
+    font-size: 0.78rem;
+}
+
+.reset_decor:visited {
+
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+}
+
+a .reset_decor:hover {
+
+    text-decoration: none;
+    color: white;
+    padding: 16px;
+
+    cursor: pointer;
+
+}
+
+.form_login {
+    padding: 8px;
+    width: 40%;
+}
+
+.nm_sessao {
+    margin-left: auto;
+    width: 15000px;
+    text-align: end;
+
+}
+
+
+.img_card {
+
+    max-height: 180px;
+    align-self: center;
+    width: 260px;
+    height: 254px;
+    border-radius: 8px;
+    object-fit: cover;
+
+}
+
+.img_card2 {
+
+    max-height: 180px;
+    align-self: center;
+    width: 231px;
+    height: 254px;
+    border-radius: 8px;
+    object-fit: cover;
+
+}
+
+.img_tama {
+    width: 290px;
+    padding: 18px;
+    margin-left: 5px;
+    margin-right: 400px;
+    border-bottom: 20px;
+}
+
+.row {
+    margin-right: auto;
+    margin-left: auto;
+
+
+}
+
+.rodape {
+    display: block;
+    position: relative;
+    width: 100%;
+    clear: both;
+    margin-top: 100%;
+    background-color: "#fffdd";
+}
+
+
+
+.text>.text-center {
+    color: #e91a0b;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 250%;
+}
+
+.text> {
+    color: #e91a0b;
+    /*  margin-top: 1000px;
+    margin-bottom: 1000px; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 250%;
+}
+
+
+.imagem {
+    width: 200px;
+    margin: 10px;
+    /* margin-top:10px; */
+    position: relative;
+    text-align: center;
+}
+
+.card-text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 110%;
+    text-align: center;
+    color: black;
+    text-transform: capitalize;
+    margin-bottom: 100px;
+    margin-top: 0px;
+    bottom: auto;
+
+}
+
+.card-text1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 140%;
+    text-align: center;
+    color: black;
+    text-transform: capitalize;
+    margin-bottom: 0px;
+    margin-top: 3px;
+
+}
+
+.container_card {
+    display: flex;
+    width: 1189px;
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: start;
+
+
+
+}
+
+
+.card-menu {
+    margin-left: 15px;
+
+}
+
+
+.recuo_menu {
+
+    width: 85%;
+}
+
+.forms {
+    padding-left: 10px;
+}
+
+.text-descr {
+    margin-top: 8px;
+    height: 50px;
+    text-align: center;
+    margin-bottom: 5px;
+
+
+}
+
+.text-saiba {
+
+    font-size: 0.8rem;
+    margin: 0;
+    padding: 0;
+
+}
+
+.tm_input {
+    width: 50px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border-color: rgb(212, 244, 250);
+
+    outline-color: aquamarine;
+    outline-width: 0.05rem;
+
+}
+
+.card-produto {
+    width: 280px;
+    height: 280px;
+    background-color: #fcfcfc;
+    box-shadow: 0px 4px 4px #00000040;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.cl_filtro {
+    width: 76%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cor-preco {
+    color: #e91a0b;
+    font-weight: 500;
+}
+
+.cor-promo {
+    color: #1a0be9;
+    font-weight: 400;
+}
+

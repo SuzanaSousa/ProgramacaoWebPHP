@@ -1,0 +1,26 @@
+
+.rodape{
+    display: block;
+    position: relative;
+    width: 100%;
+    clear: both;
+    margin-top: 100%;
+    background-color:"#fffdd";
+}
+.carousel-inner > .carousel-item > img{
+    width: 0px;
+    height: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    color: #ed9f0d;   
+ }
+
+.text> .text-center{
+    color: #e91a0b;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 250%;
+}
